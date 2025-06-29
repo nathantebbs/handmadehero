@@ -8,8 +8,11 @@ mkdir -p ../../build
 # cd build dir and push onto stack
 pushd ../../build
 
-# Compile from build dir
-c++ ../handmade/code/sdl_handmade.cpp -o handmadehero
+# Generate Makefile
+cmake ../
+
+# Make exe
+make
 
 # Run exe
 ./handmadehero

@@ -14,3 +14,4 @@ I primarily use linux daily. I also love the handmade hero series and wanted to 
 - [handmadehero (web)](https://handmadehero.org)
 - [YT Playlist](https://youtube.com/playlist?list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU&si=xXYqoudOWXgymv1Z)
 - [handmade penguin](https://davidgow.net/handmadepenguin/)
+- [SDL3 on Linux](https://www.youtube.com/watch?v=1S5qlQ7U34M&list=PLvv0ScY6vfd-RZSmGbLkZvkgec6lJ0BfX&index=2&ab_channel=MikeShah)
